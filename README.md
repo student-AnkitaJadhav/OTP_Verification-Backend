@@ -1,4 +1,5 @@
-OTP-based Email Verification System
+OTP-based Email Verification System 
+
 This project demonstrates how to implement OTP-based Email Verification in a Node.js authentication system using MongoDB and Nodemailer. By the end of this tutorial, you'll have a fully functional system that ensures secure user verification through One-Time Passwords (OTPs) sent via email.
 
 
